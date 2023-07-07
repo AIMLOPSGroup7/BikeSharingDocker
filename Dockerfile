@@ -1,4 +1,4 @@
-# pull python base image
+# pull python  base image
 FROM python:3.10
 
 # copy application files
